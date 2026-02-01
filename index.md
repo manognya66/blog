@@ -3,8 +3,26 @@ layout: default
 title: Home
 ---
 
-Hi, I'm **Shashank**
+## Welcome to ThreatLens 🛡️
 
-I document my practical learning in cybersecurity — networking labs, OWASP vulnerabilities, and privilege escalation.
+ThreatLens is a cybersecurity blog focused on defensive security, practical labs, and real-world misconfiguration analysis.
 
-This blog is my hands-on portfolio.
+Here, you’ll find write-ups on:
+
+- OWASP vulnerability testing
+- Network security and ACL configurations
+- Routing protocol labs (RIP, OSPF, EIGRP)
+- Linux & Windows privilege escalation
+- SOC-style log analysis
+
+---
+
+## Latest Posts
+
+- [My First Cybersecurity Post](/2026/02/01/first-post.html)
+
+---
+
+## About This Blog
+
+This site serves as a hands-on portfolio documenting practical cybersecurity learning and experiments.
