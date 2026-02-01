@@ -54,5 +54,3 @@ This site is organized into structured sections based on the technologies I am l
 - Reverse shell vs Bind shell
 - Privilege escalation basics
 - OWASP Top 10 from an administrator’s perspective
-
----
