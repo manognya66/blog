@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Hi, I'm **Shashank** 👋
+Hi, I'm **Shashank**
 
 I document my practical learning in cybersecurity — networking labs, OWASP vulnerabilities, and privilege escalation.
 
