@@ -1,5 +1,11 @@
 title: "ThreatLens"
 description: "Hands-on labs, OWASP, networking, privilege escalation"
-remote_theme: pages-themes/cayman@v0.2.0
+
+remote_theme: just-the-docs/just-the-docs
+
 plugins:
   - jekyll-remote-theme
+
+color_scheme: dark
+
+search_enabled: true
