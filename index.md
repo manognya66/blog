@@ -5,11 +5,21 @@ nav_order: 1
 description: Introduction to ThreatLens — a practical Network Security learning portfolio
 ---
 
-# Welcome to ThreatLens 🛡️
+# Welcome to ThreatLens
 
 Hi, I’m Shashank — an aspiring **Network Security Administrator** documenting my practical learning across **Windows Server, Networking, Web Technologies, and Cybersecurity**.
 
 ThreatLens is a documentation-style portfolio where I explain concepts using labs, diagrams, and real configurations from my learning journey.
+
+---
+
+## 🎯 Purpose of This Documentation
+
+The goal of this site is to demonstrate practical understanding of how:
+
+> Networks, servers, and security mechanisms work together — and how misconfigurations can lead to attacks.
+
+All notes and posts are based on labs, practice, and continuous learning.
 
 ---
 
@@ -46,11 +56,3 @@ This site is organized into structured sections based on the technologies I am l
 - OWASP Top 10 from an administrator’s perspective
 
 ---
-
-## 🎯 Purpose of This Documentation
-
-The goal of this site is to demonstrate practical understanding of how:
-
-> Networks, servers, and security mechanisms work together — and how misconfigurations can lead to attacks.
-
-All notes and posts are based on labs, practice, and continuous learning.
