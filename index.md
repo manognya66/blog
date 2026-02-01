@@ -1,27 +1,31 @@
 ---
-layout: default
 title: Home
+layout: default
+nav_order: 1
+description: Introduction to ThreatLens — a practical Network Security learning portfolio
 ---
 
-## Welcome to ThreatLens 🛡️
+# Welcome to ThreatLens 🛡️
 
-Hi, I’m Shashank — an aspiring **Network Security Administrator** documenting my practical learning journey across **Windows Server, Networking, Web Technologies, and Cybersecurity**.
+Hi, I’m Shashank — an aspiring **Network Security Administrator** documenting my practical learning across **Windows Server, Networking, Web Technologies, and Cybersecurity**.
 
-This blog is a hands-on portfolio where I break down concepts using labs, diagrams, and real configurations from my learning path.
+ThreatLens is a documentation-style portfolio where I explain concepts using labs, diagrams, and real configurations from my learning journey.
 
 ---
 
-## What You’ll Find Here
+## 📘 What This Site Covers
+
+This site is organized into structured sections based on the technologies I am learning and practicing.
 
 ### 🖥️ MCSA — Windows Server & Active Directory
 - Active Directory, DNS, DHCP
-- Group Policy and Authentication
-- NTFS vs Share Permissions
-- Domain configuration and common misconfigurations
+- Group Policy and authentication flow
+- NTFS vs Share permissions
+- Domain setup and common misconfigurations
 
 ### 🌐 CCNA — Networking Fundamentals
-- Subnetting, VLANs, Inter-VLAN Routing
-- ACL configurations using Packet Tracer
+- Subnetting, VLANs, Inter-VLAN routing
+- ACL configuration using Packet Tracer
 - Routing protocols and packet flow
 - OSI & TCP/IP in real scenarios
 
@@ -39,18 +43,14 @@ This blog is a hands-on portfolio where I break down concepts using labs, diagra
 - Nmap scanning and enumeration
 - Reverse shell vs Bind shell
 - Privilege escalation basics
-- OWASP Top 10 from an admin’s perspective
+- OWASP Top 10 from an administrator’s perspective
 
 ---
 
-## Purpose of This Blog
+## 🎯 Purpose of This Documentation
 
-To demonstrate practical understanding of how networks, servers, and security work together — and how misconfigurations can lead to attacks.
+The goal of this site is to demonstrate practical understanding of how:
 
-Every post here is based on labs, practice, and learning.
+> Networks, servers, and security mechanisms work together — and how misconfigurations can lead to attacks.
 
----
-
-## Latest Posts
-
-- [My First Cybersecurity Post](/2026/02/01/first-post.html)
+All notes and posts are based on labs, practice, and continuous learning.
