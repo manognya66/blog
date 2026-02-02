@@ -2,7 +2,7 @@
 title: OSI vs TCP/IP — Understanding with a Real Packet Flow
 layout: page
 parent: CCNA
-nav_order: 1
+nav_order: 3
 ---
 
 # OSI vs TCP/IP — Understanding with a Real Packet Flow
