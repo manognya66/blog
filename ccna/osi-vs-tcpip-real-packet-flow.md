@@ -218,7 +218,7 @@ This is OSI and TCP/IP working together in real life.
 
 ## Network Structure
 
-![Structure of the Network](/assets/labs/ccna/osi_vs_tcp_network_structure.png)
+![Structure of the Network](blog/assets/labs/ccna/osi_vs_tcp_network_structure.png)
 
 ## 📁 Packet Tracer Lab File
 
