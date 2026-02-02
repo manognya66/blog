@@ -226,4 +226,4 @@ This lab was created in Cisco Packet Tracer to demonstrate the complete packet f
 
 You can download the lab and observe the packet movement in Simulation Mode.
 
-[Download the Packet Tracer Lab](\/assets\/labs\/ccna\/osi_vs_tcp.pkt)
+[Download the Packet Tracer Lab](https://github.com/manognya66/blog/blob/main/assets/labs/ccna/osi_vs_tcp.pkt)
