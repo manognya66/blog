@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default
+layout: page
 nav_order: 1
 description: Introduction to ThreatLens — a practical Network Security learning portfolio
 ---
