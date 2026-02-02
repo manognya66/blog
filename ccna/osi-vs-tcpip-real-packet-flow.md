@@ -213,3 +213,17 @@ When you open a website, imagine this complete flow:
 > DNS → TCP Handshake → IP Routing → ARP → Frame Switching → Bits on wire → Server → Back to you
 
 This is OSI and TCP/IP working together in real life.
+
+---
+
+## Network Structure
+
+[Structure of Network](\/assets\/labs\/ccna\/osi_vs_tcp_network_structure.png)
+
+## 📁 Packet Tracer Lab File
+
+This lab was created in Cisco Packet Tracer to demonstrate the complete packet flow explained in this article.
+
+You can download the lab and observe the packet movement in Simulation Mode.
+
+[Download the Packet Tracer Lab](\/assets\/labs\/ccna\/osi_vs_tcp.pkt)
