@@ -4,7 +4,6 @@ layout: page
 nav_order: 1
 description: Introduction to ThreatLens — a practical Network Security learning portfolio
 ---
-
 # Welcome to ThreatLens
 
 Hi, I’m Shashank — an aspiring **Network Security Administrator** documenting my practical learning across **Windows Server, Networking, Web Technologies, and Cybersecurity**.
