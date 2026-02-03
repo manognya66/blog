@@ -218,7 +218,7 @@ This is OSI and TCP/IP working together in real life.
 
 ## Network Structure
 
-![Structure of the Network]({{ site.baseurl }}/assets/labs/ccna/osi_vs_tcp_network_structure.png)
+![Structure of the Network]({{ site.baseurl }}/assets/labs/ccna/osi_vs_tcp/osi_vs_tcp_network_structure.png)
 
 ## 📁 Packet Tracer Lab File
 
@@ -226,4 +226,4 @@ This lab was created in Cisco Packet Tracer to demonstrate the complete packet f
 
 You can download the lab and observe the packet movement in Simulation Mode.
 
-[Download the Packet Tracer Lab](https://raw.githubusercontent.com/manognya66/blog/main/assets/labs/ccna/osi_vs_tcp.pkt)
+[Download the Packet Tracer Lab](https://raw.githubusercontent.com/manognya66/blog/main/assets/labs/osi_vs_tcp/ccna/osi_vs_tcp.pkt)
