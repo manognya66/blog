@@ -44,4 +44,5 @@ Browser → Burp → Juice Shop
 Burp Suite sits between the browser and the server.
 
 Instead of the request going directly like this:
--> Browser → Juice Shop
+
+  -> Browser → Juice Shop
