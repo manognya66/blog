@@ -14,3 +14,8 @@ has_children: true
 By observing this raw traffic, we can understand how browsers communicate with servers, identify hidden data like cookies and headers, and analyze how web applications handle user input.
 
 This ability to intercept and analyze requests makes Burp Suite a fundamental tool for learning and performing web application security testing.
+
+Topics covered in this section include:
+
+-My First Intercepted Request in Burp Suite (OWASP Juice Shop)
+
