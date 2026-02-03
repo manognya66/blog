@@ -26,12 +26,12 @@ This helped me understand how private IP addresses are mapped to public IP addre
 | Device | Interface | IP Address |
 |---|---|---|
 | PC1 | — | 10.0.0.2 |
-| Switch0 | - | - |
+| Switch0 | — | — |
 | Router A | Fa0/0 | 10.0.0.1 |
 | Router A | S0/0/0 | 20.0.0.1 |
 | Router B | S0/0/0 | 20.0.0.2 |
 | Router B | Fa0/0 | 192.168.0.1 |
-| Switch0 | - | - |
+| Switch0 | — | — |
 | PC2 | — | 192.168.0.2 |
 
 ---
