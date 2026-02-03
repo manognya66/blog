@@ -141,3 +141,15 @@ Why NAT is important in real networks.
   - Static NAT creates a one-to-one mapping between private and public IP addresses.
 
   - This is commonly used when an internal device must be reachable from another network using a fixed public IP.
+
+## Network Structure
+
+![Structure of the Network]({{ site.baseurl }}/assets/labs/ccna/nat/static_nat.png)
+
+## 📁 Packet Tracer Lab File
+
+This lab was created in Cisco Packet Tracer to demonstrate the complete packet flow explained in this article.
+
+You can download the lab and observe the packet movement in Simulation Mode.
+
+[Download the Packet Tracer Lab](https://raw.githubusercontent.com/manognya66/blog/main/assets/labs/nat/static_nat.pkt)
