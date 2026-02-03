@@ -11,5 +11,4 @@ search_enabled: true
 heading_anchors: false
 
 author: Shashank
-footer_content: "© 2026 Shashank — ThreatLens | Network Security Learning Portfolio"
-
+footer_custom: footer_custom.html
