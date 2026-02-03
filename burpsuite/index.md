@@ -17,5 +17,5 @@ This ability to intercept and analyze requests makes Burp Suite a fundamental to
 
 Topics covered in this section include:
 
--My First Intercepted Request in Burp Suite (OWASP Juice Shop)
+  - My First Intercepted Request in Burp Suite (OWASP Juice Shop)
 
