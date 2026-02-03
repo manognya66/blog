@@ -115,8 +115,10 @@ This allows private IPs to communicate using public mapped addresses.
 
 # Use these on both routers:
   
+```bash
 show ip nat translations
 show ip nat statistics
+```
   
 You will see the static mappings in the NAT table.
 
@@ -126,16 +128,16 @@ You will see the static mappings in the NAT table.
 
 From this lab, I understood:
 
-Difference between inside and outside NAT interfaces.
+  - Difference between inside and outside NAT interfaces.
 
-How static mapping works.
+  - How static mapping works.
 
-How routers translate IP addresses during packet forwarding.
+  - How routers translate IP addresses during packet forwarding.
 
 Why NAT is important in real networks.
 
 ## Key Takeaway
 
-Static NAT creates a one-to-one mapping between private and public IP addresses.
+  - Static NAT creates a one-to-one mapping between private and public IP addresses.
 
-This is commonly used when an internal device must be reachable from another network using a fixed public IP.
+  - This is commonly used when an internal device must be reachable from another network using a fixed public IP.
