@@ -1,8 +1,8 @@
 ---
 title: My First Intercepted Request in Burp Suite (OWASP Juice Shop)
 layout: page
+parent: Burpsuite
 nav_order: 1
-parent: Web Fundamentals
 ---
 
 # My First Intercepted Request in Burp Suite (OWASP Juice Shop)
