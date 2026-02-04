@@ -5,6 +5,16 @@ parent: CCNA — Networking Fundamentals
 nav_order: 2
 ---
 
+## What is Static NAT?
+
+Static NAT (Static Network Address Translation) is a method where **one private IP address is permanently mapped to one public IP address**.
+
+This mapping is fixed and does not change. Whenever traffic leaves the network from that private host, the router replaces the private IP with its mapped public IP. When traffic comes back, the router reverses the translation and delivers it to the correct internal device.
+
+Static NAT is commonly used when an internal device (like a server) must be reachable from another network using a consistent, known public IP address.
+
+---
+
 # Static NAT Configuration in Cisco Packet Tracer (Two Routers)
 
 In this lab, I configured **Static NAT** between two networks using two routers in Cisco Packet Tracer.
