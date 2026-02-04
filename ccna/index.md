@@ -14,12 +14,7 @@ The focus here is to understand how networks actually work at packet level using
 - Diagrams
 - Real troubleshooting scenarios
 
+Each post is written from hands-on practice and lab experimentation.
+
 Topics covered in this section include:
 
-- OSI vs TCP/IP with real packet flow
-- What happens when you ping a device
-- Subnetting methods and IP planning
-- VLAN and Inter-VLAN routing
-- Access Control Lists (ACL)
-
-Each post is written from hands-on practice and lab experimentation.
