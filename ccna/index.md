@@ -15,6 +15,3 @@ The focus here is to understand how networks actually work at packet level using
 - Real troubleshooting scenarios
 
 Each post is written from hands-on practice and lab experimentation.
-
-Topics covered in this section include:
-
